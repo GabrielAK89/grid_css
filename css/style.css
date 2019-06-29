@@ -75,7 +75,7 @@ img {
 .showcase {
     grid-area: showcase;
     min-height: 400px;
-    background: url('img/blogging-coding-copywriting-34140.jpg');
+    background: url(https://images.pexels.com/photos/959816/pexels-photo-959816.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
     background-size: cover;
     background-position: center;
     padding: 3rem;
